@@ -1,0 +1,6 @@
+# Default owners for everything in the repository
+*            @virtual-arcade/web-maintainers
+
+# Pipelines and infrastructure also require platform review
+/.github/    @virtual-arcade/web-maintainers @virtual-arcade/platform-team
+/infra/      @virtual-arcade/web-maintainers @virtual-arcade/platform-team
